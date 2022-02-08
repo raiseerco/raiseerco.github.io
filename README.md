@@ -37,7 +37,7 @@ There are almost unlimited, countless resources. And it is getting worse because
 #### The DeFi Developer Roadmap
 <details>
   <summary>Show me!</summary>
- ![Roadmap](./roadmap.svg)
+  <img src="roadmap.svg">
 </details>
 
 ***

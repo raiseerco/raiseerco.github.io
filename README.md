@@ -32,6 +32,13 @@ Perhaps something like the `get things done` method might help:
 
 The morning after, repeat the process.
 ```
+There are almost unlimited, countless resources. And it is getting worse because as you probably heard, _we are early_. But `Cia_Officer` published an excellent work that is really helpful:
+
+#### The DeFi Developer Roadmap
+<details>
+  <summary>Show me!</summary>
+ ![Roadmap](./roadmap.svg)
+</details>
 
 ***
 ## INDEX

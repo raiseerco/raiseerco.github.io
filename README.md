@@ -2,7 +2,7 @@
 
 # Crypto development resources
 
-This document pretends to be a comprehensive (and of course constantly updated and outdated) compilation of many sources I have been using since I started in crypto in 2016. Most of the content is in English🇬🇧, but since we wanted to share the knowledge with the audience that comes from Latin America, we have collected some resources in Spanish🇪🇸 as well.
+This document pretends to be a comprehensive (and of course constantly updated and outdated) compilation of many sources I have been using since I started in crypto in 2016. Most of the content is in 🇬🇧English, but since we wanted to share the knowledge with the audience that comes from Latin America, we have collected some resources in 🇪🇸Spanish as well.
 We followed the awesome [DeFi Developer Roadmap](https://raw.githubusercontent.com/OffcierCia/DeFi-Developer-Road-Map/main/DeFiRoadMapNewSVG.svg) by `Cia_Officer` as the main guidance for completing this work.\
 Feel free to share, make contributions, deletions and critics to this document, we are all here to learn and build!
 
@@ -11,8 +11,8 @@ _Leo_
 ***
 
 ## About the _compilooooors_
-- 🇦🇷 [Tobias](www.twitter.com/tobaias), OG at [DeFi_Latam](https://t.me/DeFi_LATAM) and mastermind of [Solidity Latam Shadowy Super-Coders](https://t.me/SolidityLATAM).
-- 🇦🇷 [LeoSagan🕶](www.twitter.com/ethsagan), OG researcher at [Argenpool](https://t.me/Argenpool), OG dev at [DeFi_Latam](https://t.me/DeFi_LATAM) and editor of the present document.
+- 🇦🇷 [Tobias](www.twitter.com/0xtobias), OG at [🇪🇸 DeFi_Latam](https://t.me/DeFi_LATAM) and mastermind of [Solidity Latam Shadowy Super-Coders](https://t.me/SolidityLATAM).
+- 🇦🇷 [LeoSagan🕶](www.twitter.com/ethsagan), OG researcher at [Argenpool](https://t.me/Argenpool), OG dev at [🇪🇸 DeFi_Latam](https://t.me/DeFi_LATAM) and editor of the present document.
 
 ## How to start and not to fail
 
@@ -220,6 +220,7 @@ There are almost unlimited, countless resources. And it is getting worse because
 - [How to Write Smart Contracts That Optimize Gas Spent on Ethereum](https://betterprogramming.pub/how-to-write-smart-contracts-that-optimize-gas-spent-on-ethereum-30b5e9c5db85)
 - [Solidity by Example: an introduction to Solidity with simple examples](https://solidity-by-example.org/)
 - [Contraktor](https://github.com/wslyvh/contraktor): A smart contract explorer. Visualize and interact with common DeFi projects or any other verified smart contract
+- [SpeedRunEthereum](https://speedrunethereum.com/)
 
 
 ### Challenges
@@ -227,7 +228,7 @@ There are almost unlimited, countless resources. And it is getting worse because
 - [Capture the Ether](https://capturetheether.com/challenges/)
 - [Smart Contract Engineer](https://www.smartcontract.engineer/challenges)
 - [Accessing Private Data ](https://www.youtube.com/watch?v=Gg6nt3YW74o)
-
+- [The Ethernaut](https://ethernaut.openzeppelin.com/)
 
 
 ***

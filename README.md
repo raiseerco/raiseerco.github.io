@@ -154,7 +154,7 @@ There are almost unlimited, countless resources. And it is getting worse because
 
 - 🇪🇸 [Curso de dApps con Solidity](https://courseit.io/cursos/curso-gratuito-dapps-solidity) by CourseIt
 - [Ethereum Dapp Crash Course: Make an ERC20 token faucet + Frontend](https://dev.to/richardmelko/ethereum-dapp-crash-course-make-an-erc20-token-faucet-frontend-2m43)
-- [NFT/ERC-721/Collectible END-TO-END TUTORIAL | Deploy, List on Opensea, Host Metadata on IPFS](https://www.youtube.com/watch?v=p36tXHX1JD8)
+- [NFT/ERC-721/Collectible END-TO-END TUTORIAL: Deploy, List on Opensea, Host Metadata on IPFS](https://www.youtube.com/watch?v=p36tXHX1JD8)
 - [The Complete Guide to Full Stack Ethereum Development (Building Full Stack dApps with React, Ethers.js, Solidity, and Hardhat)](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13)
 - [How To Build A Node.js API For Ethereum Blockchain](https://www.smashingmagazine.com/2021/01/nodejs-api-ethereum-blockchain)
 - [Zero-Config CLI to Deploy Static Websites to IPFS](https://github.com/ipfs-shipyard/ipfs-deploy)

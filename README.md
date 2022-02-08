@@ -1,6 +1,6 @@
 ![Carl Sagan](./init.png)
 
-# Crypto development resources
+# DeFi development resources
 
 This document pretends to be a comprehensive (and of course constantly updated and outdated) compilation of many sources I have been using since I started in crypto in 2016. Most of the content is in 🇬🇧English, but since we wanted to share the knowledge with the audience that comes from Latin America, we have collected some resources in 🇪🇸Spanish as well.
 We followed the awesome [DeFi Developer Roadmap](https://raw.githubusercontent.com/OffcierCia/DeFi-Developer-Road-Map/main/DeFiRoadMapNewSVG.svg) by `Cia_Officer` as the main guidance for completing this work.\

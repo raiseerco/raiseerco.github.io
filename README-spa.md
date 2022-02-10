@@ -216,16 +216,15 @@ Pero `Cia_Officer` publicó un excelente trabajo que es realmente muy útil:
 - [DappTools](https://github.com/dapphub/dapptools): una suite de herramientas de Ethereum basada en línea de comandos
 - [HardHat Tutorials](https://hardhat.org/tutorial/)
 - [Projects for learning solidity and ethereum](https://github.com/antico5/solidity_learning)
-- [EthereumDev](https://ethereumdev.io/): From deploying your first smart contract to interacting with DeFi protocols
-- [Scaffold-eth](https://github.com/austintgriffith/scaffold-eth): provides an off-the-shelf stack for rapid prototyping on Ethereum, giving developers access to state-of-the-art tools to quickly learn and ship an Ethereum-based dApp. 
-- [EtherScripter](https://etherscripter.com): a smart contract visual scripting tool 
-- [Eth.build](https://eth.build/): An Educational Sandbox For Web3
-- [BuidlGuidl](https://buidlguidl.com/): A curated group of products, prototypes, and tutorials made with Scaffold-eth 
+- [EthereumDev](https://ethereumdev.io/): Desde la implementación de su primer smart contract, hasta la interacción con los protocolos DeFi
+- [Scaffold-eth](https://github.com/austintgriffith/scaffold-eth): ofrece un stack de prototipado rápido en Ethereum, dando a los desarrolladores acceso a herramientas de ultima generación para un aprendizaje y entrega rápidos de una dApp
+- [EtherScripter](https://etherscripter.com): una herramienta visual de scripting de smart contracts
+- [Eth.build](https://eth.build/): Un sandbox educacional para Web3
+- [BuidlGuidl](https://buidlguidl.com/): un "curated group" de productos, prototipos y tutoriales hechos con Scaffold-eth 
 - [Mainnet forking with Hardhat](https://hardhat.org/guides/mainnet-forking.html)
 - [How to Write Smart Contracts That Optimize Gas Spent on Ethereum](https://betterprogramming.pub/how-to-write-smart-contracts-that-optimize-gas-spent-on-ethereum-30b5e9c5db85)
 - [Solidity by Example: an introduction to Solidity with simple examples](https://solidity-by-example.org/)
-- [Contraktor](https://github.com/wslyvh/contraktor): A smart contract explorer. Visualize and interact with common DeFi projects or any other verified smart contract
-- [SpeedRunEthereum](https://speedrunethereum.com/)
+- [Contraktor](https://github.com/wslyvh/contraktor): un explorador de smart contracts. Visualiza e interactúa con proyectos DeFi populares o cualquier otro contrato verificado
 
 
 ### Desafíos
@@ -233,6 +232,8 @@ Pero `Cia_Officer` publicó un excelente trabajo que es realmente muy útil:
 - [Capture the Ether](https://capturetheether.com/challenges/)
 - [Smart Contract Engineer](https://www.smartcontract.engineer/challenges)
 - [Accessing Private Data ](https://www.youtube.com/watch?v=Gg6nt3YW74o)
+- [SpeedRunEthereum](https://speedrunethereum.com/)
+
 
 
 ***

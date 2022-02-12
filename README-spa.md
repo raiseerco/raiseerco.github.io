@@ -121,9 +121,9 @@ Pero `Cia_Officer` publicó un excelente trabajo que es realmente muy útil:
 
 ### Tutoriales oficiales de Ethereum
 
- - 🇪🇸 [Whitepaper](https://ethereum.org/es/whitepaper/)
- - 🇪🇸 [Documentación de desarrollo](https://ethereum.org/es/developers/docs/)
- - 🇪🇸 [Tutoriales de desarrollo](https://ethereum.org/es/developers/tutorials/)
+- 🇪🇸 [Whitepaper](https://ethereum.org/es/whitepaper/)
+- 🇪🇸 [Documentación de desarrollo](https://ethereum.org/es/developers/docs/)
+- 🇪🇸 [Tutoriales de desarrollo](https://ethereum.org/es/developers/tutorials/)
 
 
 ### Plataformas de aprendizaje
@@ -135,7 +135,8 @@ Pero `Cia_Officer` publicó un excelente trabajo que es realmente muy útil:
 
 ### Aprendizaje sobre DeFi
 
- - [What Is DeFi Composability? An Introduction To Money Legos](https://academy.shrimpy.io/post/what-is-defi-composability-an-introduction-to-money-legos) por Shrimpy.io
+- 🇪🇸 [Primeros pasos en finanzas descentralizadas](https://mirror.xyz/0xcF5C9668234a1Ab8bAAaE52C4799875a5B993920/UyxkUJibw6CgHROXaMqq0PhFvJ2l1hxGjjfz6JDYZ2U) por Evangelina Rodriguez Machado
+- [What Is DeFi Composability? An Introduction To Money Legos](https://academy.shrimpy.io/post/what-is-defi-composability-an-introduction-to-money-legos) por Shrimpy.io
 
 
 ### El lenguaje de desarrollo Solidity
@@ -160,7 +161,9 @@ Pero `Cia_Officer` publicó un excelente trabajo que es realmente muy útil:
 - 🇪🇸 [Curso de dApps con Solidity](https://courseit.io/cursos/curso-gratuito-dapps-solidity) por CourseIt
 - [Ethereum Dapp Crash Course: Make an ERC20 token faucet + Frontend](https://dev.to/richardmelko/ethereum-dapp-crash-course-make-an-erc20-token-faucet-frontend-2m43)
 - [NFT/ERC-721/Collectible END-TO-END TUTORIAL: Deploy, List on Opensea, Host Metadata on IPFS](https://www.youtube.com/watch?v=p36tXHX1JD8) por Patrick Collins
-- [The Complete Guide to Full Stack Ethereum Development (Building Full Stack dApps with React, Ethers.js, Solidity, and Hardhat)](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13)
+- [The Complete Guide to Full Stack Ethereum Development (Building Full Stack dApps with React, Ethers.js, Solidity, and Hardhat)](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13) por Nader Dabit
+- 🇪🇸 [La guía completa para el desarrollo de Ethereum](https://fabris-86569.medium.com/la-gu%C3%ADa-completa-para-el-desarrollo-de-ethereum-5cb10125c1c3) por Nader Dabit, traducción de Lorena Fabris
+- 🇪🇸 [Definiendo la pila Web3](https://fabris-86569.medium.com/definiendo-la-pila-web3-73ac0cff750) por Nader Dabit, traducción de Lorena Fabris
 - [How To Build A Node.js API For Ethereum Blockchain](https://www.smashingmagazine.com/2021/01/nodejs-api-ethereum-blockchain)
 - [Zero-Config CLI to Deploy Static Websites to IPFS](https://github.com/ipfs-shipyard/ipfs-deploy)
 
@@ -204,8 +207,11 @@ Pero `Cia_Officer` publicó un excelente trabajo que es realmente muy útil:
 
 ### El lenguaje de programación Rust
 
+- 🇪🇸 [FUNDAMENTOS de RUST - Aprende Rust desde Cero en español](https://www.youtube.com/watch?v=AD1JyZ3blgI) por Carlos Azaustre
 - [Rust Programming Course for Beginners](https://www.youtube.com/watch?v=MsocPEZBd-M) por FreeCodeCamp
-
+- [A gentle introductio to Solana](https://dev.to/kelvinkirima014/a-gentle-introduction-to-solana-2h3k) por Kelvin Kirima
+- [Rust Crash Course Tutorial for Solana](https://www.youtube.com/watch?v=-AAtfPHEMbA) por Leet Dev
+- [Developing with Rust](https://docs.solana.com/developing/on-chain-programs/developing-rust) por Solana Documentation
 
 
 ***

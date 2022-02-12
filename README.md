@@ -1,10 +1,12 @@
 ![Carl Sagan](./init.png)
 
-# DeFi development resources
+# The DeFi Encyclopedia
+## DeFi development resources
 
 This document pretends to be a comprehensive (and of course constantly updated and outdated) compilation of many sources I have been using since I started in crypto in 2016. Most of the content is in 🇬🇧English, but since we wanted to share the knowledge with the audience that comes from Latin America, we have collected some resources in 🇪🇸Spanish as well.
 We followed the awesome [DeFi Developer Roadmap](https://raw.githubusercontent.com/OffcierCia/DeFi-Developer-Road-Map/main/DeFiRoadMapNewSVG.svg) by `Cia_Officer` as the main guidance for completing this work.\
-Feel free to share, make contributions, deletions and critics to this document, we are all here to learn and build!
+Feel free to share, make contributions, deletions and critics to this document.\
+We are all here to learn and build!
 
 _Leo_
 
@@ -35,10 +37,7 @@ The morning after, repeat the process.
 There are almost unlimited, countless resources. And it is getting worse because as you probably heard, _we are early_. But `Cia_Officer` published an excellent work that is really helpful:
 
 #### The DeFi Developer Roadmap
-<details>
-  <summary>Show me!</summary>
-  <img src="roadmap.svg">
-</details>
+<img src="roadmap.svg">
 
 ***
 ## INDEX
@@ -94,7 +93,7 @@ There are almost unlimited, countless resources. And it is getting worse because
 - [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) by The Harvard University
 - 🇪🇸 [Aprende Javascript](https://aprendejavascript.org/)
 - [Learn JS](https://scrimba.com/learn/learnjavascript) 
-- [Aprende JavaScript - Curso Completo desde Cero By FreeCodeCamp](https://www.youtube.com/watch?v=ivdTnPl1ND0)
+- [Aprende JavaScript - Curso Completo desde Cero](https://www.youtube.com/watch?v=ivdTnPl1ND0) by FreeCodeCamp
 
 
 ### Web development
@@ -124,12 +123,14 @@ There are almost unlimited, countless resources. And it is getting worse because
 ### Learning platforms
 
 - [Cryptozombies](https://cryptozombies.io/es/course/)
-- [The Ethernaut](https://ethernaut.openzeppelin.com/)
+- [The Ethernaut](https://ethernaut.openzeppelin.com/) by OpenZeppelin
 - [BuildSpace](https://buildspace.so/): Build alongside other devs
+- [Web3 University](https://www.web3.university/): Covering the fundamentals of web3 development: from writing Solidity, to minting NFTs, to building full-stack dApps
 
 
 ### DeFi learning
 
+ - 🇪🇸 [Primeros pasos en finanzas descentralizadas](https://mirror.xyz/0xcF5C9668234a1Ab8bAAaE52C4799875a5B993920/UyxkUJibw6CgHROXaMqq0PhFvJ2l1hxGjjfz6JDYZ2U) por Evangelina Rodriguez Machado
  - [What Is DeFi Composability? An Introduction To Money Legos](https://academy.shrimpy.io/post/what-is-defi-composability-an-introduction-to-money-legos) by Shrimpy.io
 
 
@@ -141,6 +142,7 @@ There are almost unlimited, countless resources. And it is getting worse because
 - 🇪🇸 [Desarrollo en Ethereum - Cómo upgradear un smart contract](https://www.youtube.com/watch?v=R7gi7l0luTw) by Martin Triay
 - 🇪🇸 [(1/2) Introducción a DeFi Development](https://www.youtube.com/watch?v=dnxfqmjNAtQ) by Martin Triay
 - 🇪🇸 [(2/2) Introducción a DeFi Development](https://www.youtube.com/watch?v=H8sbS9V6gVY) by Martin Triay
+- [Ethereum 101 - 101 key aspects of Ethereum](https://secureum.substack.com/p/ethereum-101) By Secureum
 - [Discover Ethereum & Solidity](https://www.ludu.co/course/ethereum) by Tristan Edwards
 - [Solidity Tutorial - A Full Course on Ethereum, Blockchain Development, Smart Contracts, and the EVM](https://www.youtube.com/watch?v=ipwxYa-F1uY) by FreeCodeCamp
 - [Creating your own ERC20 token in more than 2 hours by Mariano Conti](https://nanexcool.medium.com/creating-your-own-erc20-token-in-more-than-2-hours-f0846bc34c9c)
@@ -154,21 +156,27 @@ There are almost unlimited, countless resources. And it is getting worse because
 
 - 🇪🇸 [Curso de dApps con Solidity](https://courseit.io/cursos/curso-gratuito-dapps-solidity) by CourseIt
 - [Ethereum Dapp Crash Course: Make an ERC20 token faucet + Frontend](https://dev.to/richardmelko/ethereum-dapp-crash-course-make-an-erc20-token-faucet-frontend-2m43)
-- [NFT/ERC-721/Collectible END-TO-END TUTORIAL: Deploy, List on Opensea, Host Metadata on IPFS](https://www.youtube.com/watch?v=p36tXHX1JD8)
-- [The Complete Guide to Full Stack Ethereum Development (Building Full Stack dApps with React, Ethers.js, Solidity, and Hardhat)](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13)
+- [NFT/ERC-721/Collectible END-TO-END TUTORIAL: Deploy, List on Opensea, Host Metadata on IPFS](https://www.youtube.com/watch?v=p36tXHX1JD8) by Patrick Collins
+- [The Complete Guide to Full Stack Ethereum Development (Building Full Stack dApps with React, Ethers.js, Solidity, and Hardhat)](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13) by Nader Dabit
+- 🇪🇸 [La guía completa para el desarrollo de Ethereum](https://fabris-86569.medium.com/la-gu%C3%ADa-completa-para-el-desarrollo-de-ethereum-5cb10125c1c3) por Nader Dabit, traducción de Lorena Fabris
+- 🇪🇸 [Definiendo la pila Web3](https://fabris-86569.medium.com/definiendo-la-pila-web3-73ac0cff750) por Nader Dabit, traducción de Lorena Fabris
 - [How To Build A Node.js API For Ethereum Blockchain](https://www.smashingmagazine.com/2021/01/nodejs-api-ethereum-blockchain)
 - [Zero-Config CLI to Deploy Static Websites to IPFS](https://github.com/ipfs-shipyard/ipfs-deploy)
 
 
 ### Security
 
-- 🇪🇸 [(1/2) Introducción a Hacking y Seguridad de Smart Contracts en Ethereum](https://www.youtube.com/watch?v=sqjHodAj5Xc)
-- 🇪🇸 [(2/2) Introducción a Hacking y Seguridad de Smart Contracts en Ethereum](https://www.youtube.com/watch?v=CEzERbkVAhk)
+- 🇪🇸 [(1/2) Introducción a Hacking y Seguridad de Smart Contracts en Ethereum](https://www.youtube.com/watch?v=sqjHodAj5Xc) por Martín Abbatemarco
+- 🇪🇸 [(2/2) Introducción a Hacking y Seguridad de Smart Contracts en Ethereum](https://www.youtube.com/watch?v=CEzERbkVAhk) por Martín Abbatemarco
 - 🇪🇸 [Seguridad en Solidity](https://www.youtube.com/watch?v=q8u08Q2Dpgc) By Antonio Sanchez
 - [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz): Wargame to learn offensive security of DeFi smart contracts
 - [Web App Vulnerabilities - DevSecOps Course for Beginners By FreeCodeCamp](https://www.youtube.com/watch?v=F5KJVuii0Yw)
 - [How To Secure Your Smart Contracts: Reentrancy and Owner Theft Attacks](https://medium.com/coinmonks/how-to-secure-your-smart-contracts-dc500f2c8fca) by Alex Roan from Chainlink Labs
 - [Eminence attack explanation](https://sampriestley.com/defi-arbs-explained-15m-eminence-attack/)
+- [Secureum - Education & Evaluation of Ethereum Security](https://secureum.substack.com/archive?sort=new) by Secureum
+- [Solidity 101 - 101 key aspects of Solidity](https://secureum.substack.com/p/solidity-101) by Secureum
+- [Solidity 201 - 100 more key aspects of Solidity](https://secureum.substack.com/p/solidity-201) by Secureum
+- [Secureum Youtube Channel](https://www.youtube.com/channel/UCJIdmjE0J_1zz1kUtbgedCA) by Secureum
 
 
 ### Books
@@ -183,6 +191,7 @@ There are almost unlimited, countless resources. And it is getting worse because
 
 
 ### Paid courses
+
 - [Blockchain Web Development on Ethereum 2022](https://www.udemy.com/course/complete-blockchain-web-application-course-on-ethereum/?couponCode=BE7AEE438AED981D02F9) by Udemy
 - [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/) by Udemy
 - [The Complete Solidity Course - Blockchain - Zero to Expert](https://www.udemy.com/course/the-complete-solidity-course-blockchain-zero-to-expert/) by Udemy
@@ -194,13 +203,18 @@ There are almost unlimited, countless resources. And it is getting worse because
 - [Austin Griffith](https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA/videos)
 - [Scaffold-ETH Workshop](https://www.youtube.com/watch?v=8P1mIlKGFMs)
 - [Patrick Collins from FreeCodeCamp](https://www.youtube.com/c/PatrickCollins/videos)
-- [Alberto Lasa](https://www.youtube.com/c/AlbertoLasa/videos)
+- 🇪🇸 [Alberto Lasa](https://www.youtube.com/c/AlbertoLasa/videos)
+- [Secureum](https://www.youtube.com/c/SecureumVideos/videos) by Secureum
+
 
 
 ### The Rust language
 
-- [Rust Programming Course for Beginners - Tutorial by FreeCodeCamp](https://www.youtube.com/watch?v=MsocPEZBd-M)
-
+- 🇪🇸 [FUNDAMENTOS de RUST - Aprende Rust desde Cero en español](https://www.youtube.com/watch?v=AD1JyZ3blgI) by Carlos Azaustre
+- [Rust Programming Course for Beginners](https://www.youtube.com/watch?v=MsocPEZBd-M) by FreeCodeCamp
+- [A gentle introduction to Solana](https://dev.to/kelvinkirima014/a-gentle-introduction-to-solana-2h3k) by Kelvin Kirima
+- [Rust Crash Course Tutorial for Solana](https://www.youtube.com/watch?v=-AAtfPHEMbA) by Leet Dev
+- [Developing with Rust](https://docs.solana.com/developing/on-chain-programs/developing-rust) by Solana Documentation
 
 
 ***
@@ -208,11 +222,12 @@ There are almost unlimited, countless resources. And it is getting worse because
 
 ### Tools and samples
 
+- [Ethereum Developer Tools List](https://github.com/ConsenSys/ethereum-developer-tools-list): A guide to available tools, components, patterns, and platforms for developing applications on Ethereum, y ConsenSys
 - [DappTools](https://github.com/dapphub/dapptools): a suite of Ethereum focused CLI tools
 - [HardHat Tutorials](https://hardhat.org/tutorial/)
 - [Projects for learning solidity and ethereum](https://github.com/antico5/solidity_learning)
 - [EthereumDev](https://ethereumdev.io/): From deploying your first smart contract to interacting with DeFi protocols
-- [Scaffold-eth](https://github.com/austintgriffith/scaffold-eth): provides an off-the-shelf stack for rapid prototyping on Ethereum, giving developers access to state-of-the-art tools to quickly learn and ship an Ethereum-based dApp. 
+- [Scaffold-eth](https://github.com/austintgriffith/scaffold-eth): provides an off-the-shelf stack for rapid prototyping on Ethereum, giving developers access to state-of-the-art tools to quickly learn and ship an Ethereum-based dApp
 - [EtherScripter](https://etherscripter.com): a smart contract visual scripting tool 
 - [Eth.build](https://eth.build/): An Educational Sandbox For Web3
 - [BuidlGuidl](https://buidlguidl.com/): A curated group of products, prototypes, and tutorials made with Scaffold-eth 
@@ -251,6 +266,11 @@ There are almost unlimited, countless resources. And it is getting worse because
 - [Optimistic rollups](https://research.paradigm.xyz/rollups) by Paradigm
 
 
+### DAOs
+
+- [Decentralized Autonomous Organizations Canon](https://future.a16z.com/dao-canon/) by Sonal Chokshi, Zoran Basich, and Guy Wuollet from a16z
+
+
 ### Podcasts
 
 - [Uncommon Core: Exploring the big ideas in crypto from first principles. Hosted by Su Zhu and Hasu](https://open.spotify.com/show/3vuV292Him90EjQ5YL4XIw)
@@ -261,8 +281,8 @@ There are almost unlimited, countless resources. And it is getting worse because
 
 ### NFTs
 
-- [NFTGAN: Non-Fungible Token Art Generation Using Generative Adversarial
-Networks](https://arxiv.org/pdf/2112.10577.pdf) by Sakib Shahriar and Kadhim Hayawi
+- 🇪🇸 [Construyendo un Marketplace de NFT de Pila Completa en Ethereum con Polygon](https://fabris-86569.medium.com/construyendo-un-marketplace-de-nft-de-pila-completa-en-ethereum-con-polygon-5dabef0814d5) por Nader Dabit, traducido por Lorena Fabris
+- [NFTGAN: Non-Fungible Token Art Generation Using Generative Adversarial Networks](https://arxiv.org/pdf/2112.10577.pdf) by Sakib Shahriar and Kadhim Hayawi
 - [OpenSea guides](https://opensea.io/blog/category/guides/)
 - [Zima Red](https://andrewsteinwold.substack.com/) by @AndrewSteinwold
 - [DeFi Arts Intelligencer](https://artsdefi.substack.com/) by @WPeaster
@@ -298,3 +318,4 @@ Networks](https://arxiv.org/pdf/2112.10577.pdf) by Sakib Shahriar and Kadhim Hay
 - [Awesome Solidity](https://github.com/bkrem/awesome-solidity): A comprehensive list of Solidity resources and tools
 - [DeFi Developer Roadmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map?s=09) by Officer_cia, a superb resource map
 - [Blockchain Development Resources](https://github.com/frankiefab100/Blockchain-Development-Resources) by Franklin U.O. Ohaegbulam
+

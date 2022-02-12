@@ -1,4 +1,4 @@
-![Carl Sagan](./init.png)
+![Carl Sagan](./carl.png)
 
 # La Enciclopedia DeFi
 ## Recursos para iniciarse en su desarrollo
@@ -40,10 +40,7 @@ Existe una cantidad casi ilimitada e incontable de recursos. Y esto se está pon
 Pero `Cia_Officer` publicó un excelente trabajo que es realmente muy útil:
 
 #### La Hoja de Ruta del Desarrollador DeFi
-<details>
-  <summary>Ver!</summary>
-  <img src="roadmap.svg">
-</details>
+<img src="roadmap.svg">
 
 ***
 ## ÍNDICE
@@ -131,6 +128,7 @@ Pero `Cia_Officer` publicó un excelente trabajo que es realmente muy útil:
 - 🇪🇸 [Cryptozombies](https://cryptozombies.io/es/course/)
 - 🇪🇸 [The Ethernaut](https://ethernaut.openzeppelin.com/) por OpenZeppelin
 - [BuildSpace](https://buildspace.so/): Build alongside other devs
+- [Web3 University](https://www.web3.university/): Covering the fundamentals of web3 development: from writing Solidity, to minting NFTs, to building full-stack dApps
 
 
 ### Aprendizaje sobre DeFi
@@ -147,6 +145,7 @@ Pero `Cia_Officer` publicó un excelente trabajo que es realmente muy útil:
 - 🇪🇸 [Desarrollo en Ethereum - Cómo upgradear un smart contract](https://www.youtube.com/watch?v=R7gi7l0luTw) por Martin Triay
 - 🇪🇸 [(1/2) Introducción a DeFi Development](https://www.youtube.com/watch?v=dnxfqmjNAtQ) por Martin Triay
 - 🇪🇸 [(2/2) Introducción a DeFi Development](https://www.youtube.com/watch?v=H8sbS9V6gVY) por Martin Triay
+- [Ethereum 101 - 101 key aspects of Ethereum](https://secureum.substack.com/p/ethereum-101) By Secureum
 - [Discover Ethereum & Solidity](https://www.ludu.co/course/ethereum) por Tristan Edwards
 - [Solidity Tutorial - A Full Course on Ethereum, Blockchain Development, Smart Contracts, and the EVM](https://www.youtube.com/watch?v=ipwxYa-F1uY) por FreeCodeCamp
 - [Creating your own ERC20 token in more than 2 hours](https://nanexcool.medium.com/creating-your-own-erc20-token-in-more-than-2-hours-f0846bc34c9c) por Mariano Conti
@@ -159,6 +158,7 @@ Pero `Cia_Officer` publicó un excelente trabajo que es realmente muy útil:
 ### dApp development
 
 - 🇪🇸 [Curso de dApps con Solidity](https://courseit.io/cursos/curso-gratuito-dapps-solidity) por CourseIt
+
 - [Ethereum Dapp Crash Course: Make an ERC20 token faucet + Frontend](https://dev.to/richardmelko/ethereum-dapp-crash-course-make-an-erc20-token-faucet-frontend-2m43)
 - [NFT/ERC-721/Collectible END-TO-END TUTORIAL: Deploy, List on Opensea, Host Metadata on IPFS](https://www.youtube.com/watch?v=p36tXHX1JD8) por Patrick Collins
 - [The Complete Guide to Full Stack Ethereum Development (Building Full Stack dApps with React, Ethers.js, Solidity, and Hardhat)](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13) por Nader Dabit
@@ -177,6 +177,10 @@ Pero `Cia_Officer` publicó un excelente trabajo que es realmente muy útil:
 - [Web App Vulnerabilities - DevSecOps Course for Beginners](https://www.youtube.com/watch?v=F5KJVuii0Yw) por FreeCodeCamp
 - [How To Secure Your Smart Contracts: Reentrancy and Owner Theft Attacks](https://medium.com/coinmonks/how-to-secure-your-smart-contracts-dc500f2c8fca) por Alex Roan de Chainlink Labs
 - [Eminence attack explanation](https://sampriestley.com/defi-arbs-explained-15m-eminence-attack/)
+- [Secureum - Education & Evaluation of Ethereum Security](https://secureum.substack.com/archive?sort=new) by Secureum
+- [Solidity 101 - 101 key aspects of Solidity](https://secureum.substack.com/p/solidity-101) by Secureum
+- [Solidity 201 - 100 more key aspects of Solidity](https://secureum.substack.com/p/solidity-201) by Secureum
+- [Secureum Youtube Channel](https://www.youtube.com/channel/UCJIdmjE0J_1zz1kUtbgedCA) by Secureum
 
 
 ### Libros
@@ -191,6 +195,7 @@ Pero `Cia_Officer` publicó un excelente trabajo que es realmente muy útil:
 
 
 ### Cursos pagos
+
 - [Blockchain Web Development on Ethereum 2022](https://www.udemy.com/course/complete-blockchain-web-application-course-on-ethereum/?couponCode=BE7AEE438AED981D02F9) por Udemy
 - [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/) por Udemy
 - [The Complete Solidity Course - Blockchain - Zero to Expert](https://www.udemy.com/course/the-complete-solidity-course-blockchain-zero-to-expert/) por Udemy
@@ -203,13 +208,15 @@ Pero `Cia_Officer` publicó un excelente trabajo que es realmente muy útil:
 - [Scaffold-ETH Workshop](https://www.youtube.com/watch?v=8P1mIlKGFMs)
 - [Patrick Collins de FreeCodeCamp](https://www.youtube.com/c/PatrickCollins/videos)
 - 🇪🇸 [Alberto Lasa](https://www.youtube.com/c/AlbertoLasa/videos)
+- [Secureum](https://www.youtube.com/c/SecureumVideos/videos) by Secureum
+
 
 
 ### El lenguaje de programación Rust
 
 - 🇪🇸 [FUNDAMENTOS de RUST - Aprende Rust desde Cero en español](https://www.youtube.com/watch?v=AD1JyZ3blgI) por Carlos Azaustre
 - [Rust Programming Course for Beginners](https://www.youtube.com/watch?v=MsocPEZBd-M) por FreeCodeCamp
-- [A gentle introductio to Solana](https://dev.to/kelvinkirima014/a-gentle-introduction-to-solana-2h3k) por Kelvin Kirima
+- [A gentle introduction to Solana](https://dev.to/kelvinkirima014/a-gentle-introduction-to-solana-2h3k) por Kelvin Kirima
 - [Rust Crash Course Tutorial for Solana](https://www.youtube.com/watch?v=-AAtfPHEMbA) por Leet Dev
 - [Developing with Rust](https://docs.solana.com/developing/on-chain-programs/developing-rust) por Solana Documentation
 
@@ -219,6 +226,7 @@ Pero `Cia_Officer` publicó un excelente trabajo que es realmente muy útil:
 
 ### Herramientas y ejemplos
 
+- 🇪🇸 [Lista de herramientas para desarrollador de Ethereum](https://github.com/ConsenSys/ethereum-developer-tools-list/blob/master/README_Spanish.md): Una guía de herramientas, componentes, patrones y plataformas disponibles para desarrollar aplicaciones en Ethereum. _PR pendiente de aprobacion del repositorio original [en ingles](https://github.com/ConsenSys/ethereum-developer-tools-list)_
 - [DappTools](https://github.com/dapphub/dapptools): una suite de herramientas de Ethereum basada en línea de comandos
 - [HardHat Tutorials](https://hardhat.org/tutorial/)
 - [Projects for learning solidity and ethereum](https://github.com/antico5/solidity_learning)
@@ -261,6 +269,10 @@ Pero `Cia_Officer` publicó un excelente trabajo que es realmente muy útil:
 
 - [Optimistic rollups](https://research.paradigm.xyz/rollups) por Paradigm
 
+### DAOs
+
+- [Decentralized Autonomous Organizations Canon](https://future.a16z.com/dao-canon/) by Sonal Chokshi, Zoran Basich, and Guy Wuollet from a16z
+
 
 ### Podcasts
 
@@ -272,13 +284,12 @@ Pero `Cia_Officer` publicó un excelente trabajo que es realmente muy útil:
 
 ### NFTs
 
-- [NFTGAN: Non-Fungible Token Art Generation Using Generative Adversarial
-Networks](https://arxiv.org/pdf/2112.10577.pdf) por Sakib Shahriar and Kadhim Hayawi
+- 🇪🇸 [Construyendo un Marketplace de NFT de Pila Completa en Ethereum con Polygon](https://fabris-86569.medium.com/construyendo-un-marketplace-de-nft-de-pila-completa-en-ethereum-con-polygon-5dabef0814d5) por Nader Dabit, traducido por Lorena Fabris
+- [NFTGAN: Non-Fungible Token Art Generation Using Generative Adversarial Networks](https://arxiv.org/pdf/2112.10577.pdf) por Sakib Shahriar and Kadhim Hayawi
 - [OpenSea guides](https://opensea.io/blog/category/guides/)
 - [Zima Red](https://andrewsteinwold.substack.com/) por @AndrewSteinwold
 - [DeFi Arts Intelligencer](https://artsdefi.substack.com/) por @WPeaster
 - [Jamm Session](https://outpost-protocol.com/) por @Flynnjamm
-
 
 
 ***
@@ -290,7 +301,7 @@ Networks](https://arxiv.org/pdf/2112.10577.pdf) por Sakib Shahriar and Kadhim Ha
 - [The daily Gwei](http://thedailygwei.substack.com/) por @sassal0x
 - [EthHub Weekly](http://ethhub.substack.com/)
 - [Decrypt](https://decrypt.co/)
-- 🇪🇸 [DeFi_LATAM](https://twitter.com/DeFi_LATAM) por @Defi_LATAM- 
+- 🇪🇸 [DeFi_LATAM](https://twitter.com/DeFi_LATAM) por @Defi_LATAM
 - [Unqualified Opinions](https://messari.io/newsletter) por @MessariCrypto
 - [The Block](https://theblockcrypto.com/newsletter-signup) por @TheBlock
 - [Bankless](https://bankless.substack.com/) por @BanklessHQ

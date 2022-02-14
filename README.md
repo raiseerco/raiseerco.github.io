@@ -3,6 +3,8 @@
 # The DeFi Encyclopedia
 ## DeFi development resources
 
+ <sub>[Read this document in Spanish 🇪🇸](https://github.com/raiseerco/raiseerco.github.io/blob/main/README-spa.md)</sub>
+
 This document pretends to be a comprehensive (and of course constantly updated and outdated) compilation of many sources I have been using since I started in crypto in 2016. Most of the content is in 🇬🇧English, but since we wanted to share the knowledge with the audience that comes from Latin America, we have collected some resources in 🇪🇸Spanish as well.
 We followed the awesome [DeFi Developer Roadmap](https://raw.githubusercontent.com/OffcierCia/DeFi-Developer-Road-Map/main/DeFiRoadMapNewSVG.svg) by `Cia_Officer` as the main guidance for completing this work.\
 Feel free to share, make contributions, deletions and critics to this document.\
@@ -15,6 +17,7 @@ _Leo_
 ## About the _compilooooors_
 - 🇦🇷 [Tobias](www.twitter.com/0xtobias), OG at [🇪🇸 DeFi_Latam](https://t.me/DeFi_LATAM) and mastermind of [Solidity Latam Shadowy Super-Coders](https://t.me/SolidityLATAM).
 - 🇦🇷 [LeoSagan🕶](www.twitter.com/ethsagan), OG researcher at [Argenpool](https://t.me/Argenpool), OG dev at [🇪🇸 DeFi_Latam](https://t.me/DeFi_LATAM) and editor of the present document.
+- 🇦🇷 Special mention to [Lorena Fabris](https://twitter.com/blockya_), who did an awesome work translating many articles from dev.to!
 
 ## How to start and not to fail
 

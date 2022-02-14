@@ -18,6 +18,7 @@ _Leo_
 ## Acerca de los _compilooooors_
 - 🇦🇷 [Tobias](www.twitter.com/0xtobias), OG en [🇪🇸 DeFi_Latam](https://t.me/DeFi_LATAM) y “mastermind” de [Solidity Latam Shadowy Super-Coders](https://t.me/SolidityLATAM).
 - 🇦🇷 [LeoSagan🕶](www.twitter.com/ethsagan), OG researcher en [Argenpool](https://t.me/Argenpool), OG developer en [🇪🇸 DeFi_Latam](https://t.me/DeFi_LATAM) y editor del presente documento.
+- 🇦🇷 Mencion especial a [Lorena Fabris](https://twitter.com/blockya_), quien hizo un extraordinario trabajo al traducir muchos articulos de dev.to!
 
 ## Cómo empezar y no fallar
 
